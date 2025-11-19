@@ -1,0 +1,36 @@
+body {
+    background: #f7f7f7;
+    color: #333;
+}
+header{
+	background:black;
+	color: whitesmoke;
+	display: flex;
+	justify-content: space-between;
+	border-radius: 15px;
+}
+ul{
+	list-style: none;
+	display: flex;
+	margin-right: 10px;
+}
+li {
+	margin-top: 10px;
+	margin-left: 30px;
+	text-decoration: none;
+}
+li a:hover{
+	color: white;
+}
+#name{
+	margin-left: 10px;
+}
+section {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+section h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #222;
+}
